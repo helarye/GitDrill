@@ -29,6 +29,13 @@ namespace GitDrill
         {
             
             Console.WriteLine(this.Id +". "+this.Name+" "+this.Description);
+            //stam1
+        }
+        public void Stam()
+        {
+            Console.WriteLine("in commit2 version");
+            Console.WriteLine("sura B");
+            //stam
         }
     }
 }

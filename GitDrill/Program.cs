@@ -22,6 +22,9 @@ foreach (Student s in kita)
     currColIndx =random.Next(colorMaxIndx);
     Console.ForegroundColor = consCol[currColIndx];
     s.PrintStdDit();
+    //comment 4 ver2
+    
 }
-                                             
+kita[1].Stam();
+
 
