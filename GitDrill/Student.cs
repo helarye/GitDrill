@@ -27,6 +27,7 @@ namespace GitDrill
         }
         public void PrintStdDit()
         {
+            
             Console.WriteLine(this.Id +". "+this.Name+" "+this.Description);
         }
     }
