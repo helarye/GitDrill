@@ -36,6 +36,7 @@ namespace GitDrill
             Console.WriteLine("in commit2 version");
             Console.WriteLine("sura B");
             //stam
+            //change in student cl file
         }
     }
 }

@@ -26,5 +26,7 @@ foreach (Student s in kita)
     
 }
 kita[1].Stam();
+//this com should appear only in branchDemo
+//this is the second change in program file
 
 
