@@ -26,5 +26,6 @@ foreach (Student s in kita)
     
 }
 kita[1].Stam();
+//master changed
 
 
